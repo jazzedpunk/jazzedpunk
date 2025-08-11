@@ -5,7 +5,7 @@
 <p dir="auto"></p>
 <p align="center" dir="auto">
   <br>
-</p><a href="https://hungry-bug.straw.page/" rel="nofollow">strawpage</a>
+<p align="center"><a href="https://hungry-bug.straw.page/" rel="nofollow">strawpage</a>
  /   
 <a href="https://crossofloss.atabook.org/" rel="nofollow">atabook</a>
-<p align="center">
+
