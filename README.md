@@ -1,5 +1,5 @@
 <p align="center">
-〝 I can kill you so easily. And if a bullet won't do. I can make you love me. 〞
+〝 Shutup you're stupid, just be my frickin' man. 〞
   <p dir="auto"></p>
   <br>
 <p dir="auto"></p>
