@@ -1,5 +1,5 @@
 <p align="center">
-' I can kill you so easily. And if a bullet won't do. I can make you love me '
+〝 I can kill you so easily. And if a bullet won't do. I can make you love me 〞
   <br>
 <p dir="auto"></p>
 <p align="center">
