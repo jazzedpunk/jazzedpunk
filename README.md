@@ -8,4 +8,4 @@
 </p><a href="https://hungry-bug.straw.page/" rel="nofollow">strawpage</a>
  /   
 <a href="https://crossofloss.atabook.org/" rel="nofollow">atabook</a>
-</p>
+<p align="center">
