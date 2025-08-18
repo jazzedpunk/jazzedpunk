@@ -1,5 +1,5 @@
 <p align="center">
-〝 Shutup you're stupid, just be my frickin' man. 〞
+〝 I could be the hangman. And you could be my rope. 〞
   <p dir="auto"></p>
   <br>
 <p dir="auto"></p>
