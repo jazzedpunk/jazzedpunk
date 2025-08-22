@@ -1,5 +1,5 @@
 <p align="center">
-〝 I could be the hangman. And you could be my rope. 〞
+<i>〝 I could be the hangman. And you could be my rope. 〞</i>
   <p dir="auto"></p>
   <br>
 <p dir="auto"></p>
