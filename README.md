@@ -12,7 +12,7 @@
 <p align="center"><a href="https://hungry-bug.straw.page/" rel="nofollow">straw</a>
   ⠀ 
 <a href="https://crossofloss.atabook.org/" rel="nofollow">ata</a>
-  
+</p> 
 <a href="https://guns.lol/check_success/" rel="nofollow">guns.lol</a>
   ⠀ 
 <a href="https://github.com/gothopera/" rel="nofollow">main</a>
